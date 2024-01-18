@@ -1,0 +1,9 @@
+{
+	"platformName": "Android",
+	"app": "../apps/osasmobile/OSASMobile.apk",
+	"automationName": "UiAutomator2",
+	"autoGrantPermissions": true,
+	"noReset": true,
+	"fullReset": false,
+	"newCommandTimeout": 3600
+}

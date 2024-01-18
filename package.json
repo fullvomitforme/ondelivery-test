@@ -1,0 +1,15 @@
+{
+  "name": "ondelivery-test",
+  "version": "1.0.0",
+  "description": "testing for ondelivery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fullvomitforme",
+  "license": "ISC",
+  "devDependencies": {
+    "appium": "^2.4.1",
+    "webdriverio": "^8.28.6"
+  }
+}
